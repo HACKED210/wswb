@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["62881027694993@s.whatsapp.net"],
+  "ownerName": ["Own-Iman√"],
+  "botName": "ImanBot",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}

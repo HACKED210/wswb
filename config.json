@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6289653633058@s.whatsapp.net"],
+  "ownerName": ["Zeuz"],
+  "botName": "ZeuzXF",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
